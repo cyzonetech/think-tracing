@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-tracing",
+    "name": "cyzonetech/think-tracing",
     "description": "Distributed tracing for ThinkPHP made easy",
     "license": "MIT",
     "authors": [
@@ -20,7 +20,7 @@
     },
     "require": {
         "php": ">=7.1.0",
-        "topthink/framework": "^6.0",
+        "cyzonetech/framework": "^6.0",
         "opentracing/opentracing": "^1.0"
     },
     "suggest": {
